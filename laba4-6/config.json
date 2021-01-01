@@ -1,0 +1,28 @@
+{
+  "mssql": {
+    "database": "RIS",
+    "username": "yura",
+    "password": "yura1605",
+    "options": {
+      "dialect": "mssql",
+      "host": "localhost",
+      "logging": false,
+      "define": {
+        "timestamps": false,
+        "freezeTableName": true
+      }
+    }
+  },
+  "server": {
+    "host": "localhost",
+    "port": 8000
+  },
+  "client1": {
+    "host": "localhost",
+    "port": 8001
+  },
+  "client2": {
+    "host": "localhost",
+    "port": 8002
+  }
+}

@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\lab1\ntp\main.cpp(46): warning C4307: '*': integral constant overflow
+d:\lab1\ntp\main.cpp(63): warning C4309: '=': truncation of constant value
+d:\lab1\ntp\main.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NTP.vcxproj -> D:\lab1\x64\Debug\NTP.exe
